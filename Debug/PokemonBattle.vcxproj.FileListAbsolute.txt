@@ -1,0 +1,3 @@
+C:\Users\amish\Desktop\Coding\C++ Projects\Visual Studio\PokemonBattle\Debug\PokemonBattle.exe
+C:\Users\amish\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\PokemonBattle\Debug\PokemonBattle.exe
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\PokemonBattle\Debug\PokemonBattle.exe
